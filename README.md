@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**leticiadasil/leticiadasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi meu nome é Leticia 
 
-Here are some ideas to get you started:
+Tenho 17 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Faço curso de informática
+
+Estudo na escola Rubens Moreira Da rocha
+
+Sou estudante do Alura 
+
+E meu sonho é trabalhar com área de estética
+ 
